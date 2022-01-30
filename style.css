@@ -1,0 +1,23 @@
+background-color: whitesmoke;
+body {
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse
+  }
+
+  #tech_skills_table{
+    position: fixed;
+    top: 10em;
+    right: 2em;  
+}
+
+form{
+  padding: 3px;
+}
